@@ -1,1 +1,1 @@
-pyrsistent==0.17.3
+pyrsistent==0.18.0
